@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src"
   ],
-  "SelectedNode": "\\C:\\Users\\PARIYA\\Source\\Repos\\AspnetMicroservices",
+  "SelectedNode": "\\src\\aspnetrun-microservice.sln",
   "PreviewInSolutionExplorer": false
 }
